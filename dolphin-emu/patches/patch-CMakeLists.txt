@@ -1,0 +1,11 @@
+--- CMakeLists.txt.orig	2016-08-13 16:05:05.346478808 +0200
++++ CMakeLists.txt	2016-08-13 16:05:25.665344667 +0200
+@@ -8,7 +8,7 @@
+ option(TRY_X11 "Enables X11 Support" ON)
+ option(USE_SHARED_ENET "Use shared libenet if found rather than Dolphin's soon-to-compatibly-diverge version" OFF)
+ option(USE_SHARED_GTEST "Use shared gtest library if found" OFF)
+-option(USE_UPNP "Enables UPnP port mapping support" ON)
++option(USE_UPNP "Enables UPnP port mapping support" OFF)
+ option(DISABLE_WX "Disable wxWidgets (use Qt or CLI interface)" OFF)
+ option(ENABLE_QT2 "Enable Qt2 (use the other experimental Qt interface)" OFF)
+ option(ENABLE_PCH "Use PCH to speed up compilation" ON)

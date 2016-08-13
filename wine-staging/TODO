@@ -1,0 +1,10 @@
+-------- To NetBSD --------
+-- user_ldt in NetBSD amd64
+-- Have a real audio mixer in NetBSD because Wine
+   uses many audio sources to play a game audio
+
+-------- To the package --------
+-- Make a correct PLIST to be able to use every options
+-- Remove useless patches after updating Wine.
+-- Make the "xrandr" option works (it does not disable
+   in the Wine build even removing it from used options)

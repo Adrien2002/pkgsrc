@@ -1,0 +1,9 @@
+$NetBSD$
+
+SHA1 (wine-1.9.14.tar.bz2) = d09bca2a32d80857f97847795bc82749200ef12c
+RMD160 (wine-1.9.14.tar.bz2) = 802e37b0a426b354ee8798995a9e1c58cbe399b5
+SHA512 (wine-1.9.14.tar.bz2) = d4226fc8a421f32b00597ef62c1dc6acd39f1854584f8f41f69d48568565862419485ac97277b9caaaf6835095db77f7d93b04578f9a8eb07ca39fcd85d3f3f0
+Size (wine-1.9.14.tar.bz2) = 23307687 bytes
+#SHA1 (patch-dlls_kernel32_computername.c) = c89b4101a81a4fcfbd1a0afd543d33b8ff8c4d42
+#SHA1 (patch-dlls_winepulse.drv_mdevdrv.c) = aa31180663ca257627d52e91d69e3e93aaffc83b
+#SHA1 (patch-dlls_wininet_http.c) = 59bd3e175cb9ee041e1c3c028c41da71a3936980

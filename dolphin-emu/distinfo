@@ -1,0 +1,10 @@
+$NetBSD$
+
+SHA1 (dolphin/5.0.tar.gz) = 6553f9fe5281326b86f33fb6b99a93fe6a8820af
+RMD160 (dolphin/5.0.tar.gz) = e8c4cb2c903b78c3e21cb12b0724ab0728c1391a
+SHA512 (dolphin/5.0.tar.gz) = 8de76f811abfb82e19502336734e86ba600c11d9fa95bcf7f70a2a525165d07ead826854c39377602aab7856a057af9ba91bff458cf2dd008712527290489d3a
+Size (dolphin/5.0.tar.gz) = 38246344 bytes
+SHA1 (patch-CMakeLists.txt) = 7e6002d1efae02cabaa608375cbb6296743ee068
+SHA1 (patch-Externals_SFML_include_SFML_Config.hpp) = 874d017673cda97b6e060d3f4aa011eb10cad4b2
+SHA1 (patch-Source_Core_Common_FileUtil.cpp) = cc18cb24e6ebebda153192f5c63a00b5e43f8c77
+SHA1 (patch-Source_Core_Common_MemoryUtil.cpp) = 66f25eba8d75a93d7ddcbd7eda614787a5eada56
